@@ -1,5 +1,6 @@
 # CLAUDE.md
-
+これからの指示や文章は絶対に日本語で書いてください
+記事の更新をしたら必ずgithubにコミットしてください
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## このディレクトリについて
