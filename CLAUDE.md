@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## このディレクトリについて
 
-ブログ「花ちゃんの台湾留学ブログ ｜母のリアル体験記」（https://www.taiwan-mama.com/）の記事草稿を管理するディレクトリ。
+ブログ「台湾留学の費用・準備・合格まで全部教えます｜娘を送り出した母のリアル記録」（https://www.taiwan-mama.com/）の記事草稿を管理するディレクトリ。
 
 - 執筆者：じゃいコ（台湾の大学に進学した娘・花ちゃんを持つお母さん）
 - 対象読者：台湾留学を考えている日本の高校生とその保護者
