@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -u \"maritakami:QXNz ZBUr eWWo QSN0 SQ82 gK9A\" \"https://www.taiwan-mama.com/wp-json/wp/v2/pages?per_page=100&status=any\")",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}

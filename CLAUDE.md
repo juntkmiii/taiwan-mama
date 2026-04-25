@@ -27,7 +27,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ---
 
 ## 見出し1
-
 本文...
 
 ## 見出し2
@@ -57,7 +56,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 | 番号 | タイトル | カテゴリー |
 |---|---|---|
-| 000 | エピソード０ そもそもなぜ台湾？！ | 親目線の留学サポート記録 |
+| 006 | エピソード０ そもそもなぜ台湾？！ | 親目線の留学サポート記録 |
 | 001 | 台湾の大学に行きたい！ | 親目線の留学サポート記録 |
 | 002 | 【体験談】娘が台湾留学を決めてから合格するまでの全記録！ | 親目線の留学サポート記録 |
 | 003 | 【体験談】いざ！行動開始！ | 親目線の留学サポート記録 |
