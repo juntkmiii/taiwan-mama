@@ -52,7 +52,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 5. **台湾での大学生活** — 寮・食事・日常生活
 6. **よくある質問・Q&A** — 読者からよく聞かれる疑問への回答
 
-## 既存記事（番号000〜004）
+## 既存記事一覧
 
 | 番号 | タイトル | カテゴリー |
 |---|---|---|
@@ -61,6 +61,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | 002 | 【体験談】娘が台湾留学を決めてから合格するまでの全記録！ | 親目線の留学サポート記録 |
 | 003 | 【体験談】いざ！行動開始！ | 親目線の留学サポート記録 |
 | 004 | 中国語（台湾華語）予備校入学！ | 台湾華語（中国語）学習 |
+| 012 | 【実録】台湾留学にはTOCFLとTOEICが必要だった！合計14回の検定試験と10万円超の費用を公開 | 費用・お金の話 |
 
 ## 記事作成時の注意
 
